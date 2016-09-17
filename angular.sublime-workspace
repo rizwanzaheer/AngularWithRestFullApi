@@ -1,0 +1,693 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Obe",
+				"Observable	alias"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"artic",
+				"articles"
+			],
+			[
+				"arc",
+				"article_id"
+			],
+			[
+				"bt",
+				"btn-default"
+			],
+			[
+				"fee",
+				"feedback_class"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"add",
+				"add_article"
+			],
+			[
+				"articl",
+				"articles"
+			],
+			[
+				"ifelse",
+				"ifelse	if … else …"
+			],
+			[
+				"if",
+				"if?	$… = ( … ) ? … : …"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"rue",
+				"rules"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pri",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 8415,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.template.html",
+			"settings":
+			{
+				"buffer_size": 2574,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/github.service.ts",
+			"settings":
+			{
+				"buffer_size": 790,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/post.service.ts",
+			"settings":
+			{
+				"buffer_size": 1164,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/github-profile.component.ts",
+			"settings":
+			{
+				"buffer_size": 1739,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/wamp64/www/angular",
+		"/G/wamp64/www/angular/app"
+	],
+	"file_history":
+	[
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.468/Solution - Connecting to the Server/github-profile.component.ts",
+		"/G/wamp64/www/angular/app/post.service.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.468/Solution - Connecting to the Server/github.service.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.188/Solution - Connecting to the Server/github.service.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.188/Solution - Connecting to the Server/github-profile.component.ts",
+		"/G/wamp64/www/codeigniter/application/views/admin/link_urls.php",
+		"/G/wamp64/www/codeigniter/application/views/public/inc/public_header.php",
+		"/G/wamp64/www/codeigniter/application/views/admin/js_urls.php",
+		"/G/wamp64/www/codeigniter/application/controllers/admin.php",
+		"/G/wamp64/www/codeigniter/application/config/autoload.php",
+		"/G/wamp64/www/codeigniter/application/views/public/admin_login.php",
+		"/G/wamp64/www/codeigniter/application/controllers/Welcome.php",
+		"/G/wamp64/www/codeigniter/application/config/config.php",
+		"/G/wamp64/www/codeigniter/system/language/english/form_validation_lang.php",
+		"/G/wamp64/www/codeigniter/application/views/admin/dashboard.php",
+		"/G/wamp64/www/ci/application/config/config.php",
+		"/G/wamp64/www/codeigniter/application/views/welcome_message.php",
+		"/G/wamp64/www/codeigniter/index.php",
+		"/G/wamp64/www/codeigniter/application/views/admin/add_article.php",
+		"/G/wamp64/www/ci/application/controllers/Welcome.php",
+		"/G/wamp64/www/ci/system/database/DB_driver.php",
+		"/G/Softwares/Download Managers/Internet Download Manager 6.25 Build 21 Incl Crack + Silent [Fake Serial Key Fixed!][SadeemPC]/Internet Download Manager (IDM) 6.25 Build 21 + Crack [SadeemPC]/Instructions !!!.txt",
+		"/G/wamp64/www/codeigniter/application/index.html",
+		"/G/wamp64/www/ci/system/.htaccess",
+		"/G/wamp64/www/ci/system/core/Config.php",
+		"/G/wamp64/www/ci/application/views/welcome_message.php",
+		"/G/wamp64/www/ci/system/libraries/Javascript/Jquery.php",
+		"/G/Libs & Dirvers -Office Work/portfolio/RScard_files/jquery.js",
+		"/G/wamp64/www/codeigniter/assets/js/jquery.js",
+		"/G/Softwares/Download Managers/PremiumSoft Navicat Premium Enterprise 11.2.8 (x86-x64)+ Keygen_/PremiumSoft Navicat Premium Enterprise 11.2.8 (x86-x64)/amped.txt",
+		"/G/wamp64/www/flyer/application/config/routes.php",
+		"/G/wamp64/www/flyer/application/config/database.php",
+		"/G/wamp64/www/flyer/application/controllers/Admins.php",
+		"/G/wamp64/www/flyer1/application/config/routes.php",
+		"/G/wamp64/www/flyer/application/config/config.php",
+		"/G/wamp64/www/flyer1/application/config/database.php",
+		"/G/wamp64/www/flyer1/application/config/config.php",
+		"/G/wamp64/www/flyer1/.htaccess",
+		"/G/wamp64/www/flyer/.htaccess",
+		"/G/Softwares/Text Editers or Reader/Sublime Text 3 Build 3114/Key.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"article",
+			"feedback",
+			"error",
+			"user",
+			"form_validation",
+			"body",
+			"title",
+			"body",
+			"inpute",
+			"input",
+			"inputemail",
+			"name'=>",
+			"java",
+			"javascript",
+			"preg_match",
+			"ver",
+			"javascript",
+			"  \n",
+			"data"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "G:\\wamp64\\www\\angular"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1779,
+								1779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/app.template.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/github.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/post.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/github-profile.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.tem",
+				"app\\app.template.html"
+			],
+			[
+				"post",
+				"app\\post.service.ts"
+			],
+			[
+				"github",
+				"app\\github-profile.component.ts"
+			],
+			[
+				"github-pro",
+				"app\\github-profile.component.ts"
+			],
+			[
+				"git",
+				"app\\github.service.ts"
+			],
+			[
+				"post.ser",
+				"app\\post.service.ts"
+			],
+			[
+				"app.com",
+				"app\\app.component.ts"
+			],
+			[
+				"sc",
+				"assets\\js\\script.js"
+			],
+			[
+				"js_",
+				"application\\views\\admin\\js_urls.php"
+			],
+			[
+				"lin",
+				"application\\views\\admin\\link_urls.php"
+			],
+			[
+				"head",
+				"application\\views\\public\\inc\\public_header.php"
+			],
+			[
+				"loign",
+				"application\\controllers\\login.php"
+			],
+			[
+				"admin",
+				"application\\views\\public\\admin_login.php"
+			],
+			[
+				"loi",
+				"application\\controllers\\login.php"
+			],
+			[
+				"artic",
+				"application\\models\\articlesmodel.php"
+			],
+			[
+				"adm",
+				"application\\controllers\\admin.php"
+			],
+			[
+				"arti",
+				"application\\models\\articlesmodel.php"
+			],
+			[
+				"conf",
+				"application\\config\\config.php"
+			],
+			[
+				"admin_log",
+				"application\\views\\public\\admin_login.php"
+			],
+			[
+				"log",
+				"application\\controllers\\login.php"
+			],
+			[
+				"fomr",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"form",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"aut",
+				"application\\config\\autoload.php"
+			],
+			[
+				"atuo",
+				"application\\config\\autoload.php"
+			],
+			[
+				"add_",
+				"application\\views\\admin\\add_article.php"
+			],
+			[
+				"login",
+				"application\\controllers\\login.php"
+			],
+			[
+				"form_val",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"form_vl",
+				"system\\language\\english\\form_validation_lang.php"
+			],
+			[
+				"auto",
+				"application\\config\\autoload.php"
+			],
+			[
+				"form_",
+				"application\\config\\form_validations.php"
+			],
+			[
+				"from_val",
+				"application\\config\\form_validations.php"
+			],
+			[
+				"add",
+				"application\\views\\admin\\add_article.php"
+			],
+			[
+				"admi",
+				"application\\controllers\\admin.php"
+			],
+			[
+				"con",
+				"application\\config\\config.php"
+			],
+			[
+				"wec",
+				"ci\\application\\controllers\\Welcome.php"
+			],
+			[
+				"index",
+				"codeigniter\\application\\index.html"
+			],
+			[
+				"confi",
+				"ci\\application\\config\\config.php"
+			],
+			[
+				"config",
+				"ci\\system\\core\\Config.php"
+			],
+			[
+				"jquery",
+				"assets\\js\\jquery.js"
+			],
+			[
+				"dash",
+				"application\\views\\admin\\dashboard.php"
+			],
+			[
+				"add_arti",
+				"application\\views\\admin\\add_article.php"
+			],
+			[
+				"data",
+				"application\\config\\database.php"
+			],
+			[
+				"rout",
+				"application\\config\\routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,1525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"imp",
+				"imp	imports a module …"
+			],
+			[
+				"impor",
+				"import	keyword"
+			],
+			[
+				"Router",
+				"ROUTER_DIRECTIVES	alias"
+			],
+			[
+				"Route",
+				"ROUTER_PROVIDERS	alias"
+			],
+			[
+				"Null",
+				"NULL"
+			],
+			[
+				"admin",
+				"admin_flyers"
+			],
+			[
+				"Admin",
+				"admin_flyers"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"amdin",
+				"admin_password"
+			],
+			[
+				"user",
+				"admin_username"
+			],
+			[
+				"adm",
+				"admin_password"
+			],
+			[
+				"adi",
+				"admin_password"
+			],
+			[
+				"dta",
+				"Date"
+			],
+			[
+				"use",
+				"userDob"
+			],
+			[
+				"es",
+				"else"
+			],
+			[
+				"stsa",
+				"status"
+			],
+			[
+				"get",
+				"get_where"
+			],
+			[
+				"sts",
+				"userStatus"
+			],
+			[
+				"resul",
+				"resultdata"
+			],
+			[
+				"Sta",
+				"status"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"date",
+				"datepicker"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/app.routes.ts",
+			"settings":
+			{
+				"buffer_size": 832,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/notfound.component.ts",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Windows",
+				"name": "export class PageNotFoundComponent{"
+			}
+		},
+		{
+			"file": "app/main.ts",
+			"settings":
+			{
+				"buffer_size": 413,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.template.html",
+			"settings":
+			{
+				"buffer_size": 1151,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/album.component.ts",
+			"settings":
+			{
+				"buffer_size": 1388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1756,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/photo.service.ts",
+			"settings":
+			{
+				"buffer_size": 550,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/albums.component.ts",
+			"settings":
+			{
+				"buffer_size": 1275,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/contact.component.ts",
+			"settings":
+			{
+				"buffer_size": 840,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 693,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/wamp64/www/angularApp"
+	],
+	"file_history":
+	[
+		"/G/wamp64/www/sweetalert/index.html",
+		"/G/wamp64/www/angularApp/npm-debug.log",
+		"/G/wamp64/www/angularApp/package.json",
+		"/G/wamp64/www/angularApp/systemjs.config.js",
+		"/G/wamp64/www/angularApp/typings.json",
+		"/G/wamp64/www/angularApp/app/app.component.html",
+		"/G/wamp64/www/angularApp/app/app.component.ts",
+		"/G/wamp64/www/angularApp/index.html",
+		"/G/wamp64/www/angularApp/node_modules/@angular/router-deprecated/bundles/router-deprecated.umd.js",
+		"/G/wamp64/www/angularApp/app/contact.component.ts",
+		"/G/wamp64/www/angularApp/node_modules/reflect-metadata/spec/typescript-out.html",
+		"/G/wamp64/www/angularApp/node_modules/@angular/router-deprecated/router.d.ts",
+		"/G/wamp64/www/angular/app/style.css",
+		"/G/wamp64/www/angular/angularApp/app/app.template.html",
+		"/G/wamp64/www/angular/angularApp/app/app.component.ts",
+		"/G/wamp64/www/angular/angularApp/app/boot.ts",
+		"/G/wamp64/www/angular/angularApp/app/albums.component.ts",
+		"/G/wamp64/www/angular/angularApp/Dockerfile",
+		"/G/wamp64/www/angular/angularApp/app/photo.service.ts",
+		"/G/wamp64/www/angular/angularApp/app/contact.component.ts",
+		"/G/wamp64/www/angular/angularApp/app/album.component.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.319/Routing - Seed Project/app/app.component.html",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.199/Routing - Seed Project/app/app.component.ts",
+		"/G/wamp64/www/angular/angularApp/app/app.component.html",
+		"/G/wamp64/www/angular/angularApp/index.html",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.200/Routing - Seed Project/index.html",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/photo.service.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/contact.component.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/contact.component.html",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/app.component.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/albums.component.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/album.component.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.947/Routing - Seed Project/index.html",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/app.component.html",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/boot.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/album.component.js",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/album.component.js.map",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/albums.component.js",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/albums.component.js.map",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/app.component.js",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/app.component.js.map",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/photo.service.js.map",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/photo.service.js",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/contact.component.js.map",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/boot.js",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/boot.js.map",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.282/Routing - Seed Project/app/contact.component.js",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.748/Solution - Connecting to the Server/github-profile.component.ts",
+		"/C/Users/Rizwan/AppData/Local/Temp/Rar$DRa0.748/Solution - Connecting to the Server/github.service.ts",
+		"/G/wamp64/www/flyer/design/flyer",
+		"/G/wamp64/www/flyer/design/master/sass/gui/_call-to-action.scss",
+		"/G/wamp64/www/flyer/design/login.html",
+		"/G/wamp64/www/flyer/design/subscribe.html",
+		"/G/wamp64/www/flyer/design/pricing.html",
+		"/G/wamp64/www/flyer/design/product.html",
+		"/G/wamp64/www/flyer/design/blog.html",
+		"/G/wamp64/www/flyer/design/cart.html",
+		"/G/wamp64/www/flyernew/HTML/subscribe.html",
+		"/G/wamp64/www/flyernew/HTML/faq.html",
+		"/G/wamp64/www/flyernew/HTML/cart.html",
+		"/G/wamp64/www/flyernew/HTML/shop.html",
+		"/G/wamp64/www/flyernew/HTML/pricing.html",
+		"/G/wamp64/www/flyernew/HTML/product.html",
+		"/G/wamp64/www/flyernew/HTML/contactus.html",
+		"/G/wamp64/www/flyernew/HTML/login.html",
+		"/G/wamp64/www/flyernew/HTML/aboutus.html",
+		"/G/wamp64/www/flyernew/HTML/blog.html",
+		"/G/wamp64/www/flyernew/HTML/index.html",
+		"/G/wamp64/www/flyer/design/index.html",
+		"/G/wamp64/bin/php/php7.0.0/wampserver.conf",
+		"/G/wamp64/www/ci3restapi/application/config/config.php",
+		"/G/wamp64/www/flyernew/HTML/page-faq.html",
+		"/G/wamp64/www/flyernew/HTML/shop-checkout.html",
+		"/G/wamp64/www/flyernew/HTML/page-login.html",
+		"/G/wamp64/www/flyernew/HTML/shopcart.html",
+		"/G/wamp64/www/flyernew/HTML/shop-cart.html",
+		"/G/wamp64/www/flyernew/HTML/contact-us.html",
+		"/G/wamp64/www/flyernew/HTML/about-us.html",
+		"/G/wamp64/www/flyernew/HTML/blog-medium-image.html",
+		"/G/wamp64/www/flyernew/HTML/index-header-signin.html",
+		"/G/wamp64/www/flyer/application/controllers/Frontend.php",
+		"/G/wamp64/www/flyernew/HTML/`",
+		"/G/wamp64/www/flyer/application/views/admins/flyers_management.php",
+		"/G/wamp64/www/flyer/application/controllers/Admin_flyers.php",
+		"/G/wamp64/www/flyer/application/views/admin/manageflyers/add_button_tags.php",
+		"/G/wamp64/www/flyer/harviacode/core/create_model.php",
+		"/G/wamp64/www/flyer/application/controllers/Users.php",
+		"/G/wamp64/www/codeigniter-restserver/application/config/config.php",
+		"/G/wamp64/www/flyer/application/controllers/admin/Admin.php",
+		"/G/wamp64/www/flyer/application/views/admin/layout/head.php",
+		"/G/wamp64/www/flyer/application/views/users/users_main.php",
+		"/G/wamp64/www/flyer/application/models/Users_model.php",
+		"/G/wamp64/www/flyer/application/views/users/users_list.php",
+		"/G/wamp64/www/flyer/application/views/users/users_form.php",
+		"/G/wamp64/www/flyer/application/views/admins/tbl_admin_list.php",
+		"/G/wamp64/www/flyer/application/views/admins/tbl_admin_form.php",
+		"/G/wamp64/www/flyer/application/models/Admins_model.php",
+		"/G/wamp64/www/flyer/application/controllers/Admins.php",
+		"/G/wamp64/www/flyer/public/admin/js/fabric/fabric_api.js",
+		"/G/wamp64/www/flyer/application/config/config.php",
+		"/G/wamp64/www/flyer/application/views/admins/tbl_admin_read.php",
+		"/G/wamp64/www/flyer/application/views/admin_coupons/admi_coupons_list.php",
+		"/G/wamp64/www/flyer/application/views/admin_coupons/admi_coupons_form.php",
+		"/G/wamp64/www/flyer/application/controllers/Admin_coupons.php",
+		"/G/wamp64/www/flyer/public/admin/css/style.css",
+		"/F/Picture/Documents/InformationList.txt",
+		"/G/wamp64/www/flyer/public/frontend/js/design-script.js",
+		"/G/wamp64/www/flyer/tiny_mce/plugins/imgmanager/js/script.js",
+		"/G/wamp64/www/flyer/public/admin/js/script.js",
+		"/G/wamp64/www/flyer/public/frontend/js/script.js",
+		"/G/wamp64/www/flyer/application/views/admin/layout/template.php",
+		"/G/wamp64/www/flyer/public/admin/js/template/script.js",
+		"/G/wamp64/www/flyer/application/views/admin/layout/nav.php",
+		"/G/wamp64/www/flyer/application/config/migration.php",
+		"/G/wamp64/www/flyer/application/views/admins/tbl_admin_doc.php",
+		"/G/wamp64/www/flyer/application/views/users_activity/users_activity_doc.php",
+		"/G/wamp64/www/flyer/application/views/users/users_doc.php",
+		"/G/wamp64/www/flyer/application/models/Users_activity_model.php",
+		"/G/wamp64/www/flyer/application/models/admin/Adminloginmodel.php",
+		"/G/wamp64/www/flyer/application/models/Admin_coupons_model.php",
+		"/G/wamp64/www/flyer/application/views/admin/home/designer_settings.php",
+		"/G/wamp64/www/flyer/application/models/frontend/Commonmodel.php",
+		"/G/wamp64/www/flyer/application/controllers/Flyer_tags.php",
+		"/C/Users/Rizwan/Downloads/Compressed/quickstart-master/quickstart-master/package.json",
+		"/C/Users/Rizwan/Downloads/Compressed/quickstart-master/quickstart-master/typings.json",
+		"/C/Users/Rizwan/Downloads/Compressed/quickstart-master/quickstart-master/tslint.json",
+		"/C/Users/Rizwan/Downloads/Compressed/quickstart-master/quickstart-master/tsconfig.json",
+		"/C/Users/Rizwan/Downloads/Compressed/angular.io-master/angular.io-master/package.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CanDeactivate ",
+			"photos",
+			"ROUTER_PROVIDERS",
+			"routeroutlet",
+			"router",
+			"modules",
+			"router",
+			"/",
+			"routerLinkActive=\"active\"",
+			"/",
+			" href=\"#\"",
+			"config",
+			"router",
+			"rl",
+			"rkh",
+			"router",
+			"Cart Subtotal",
+			"Cart Totals",
+			"File",
+			"Checkout",
+			"collapseTwo",
+			"collapseThree",
+			"collapseTwo",
+			"Order Now",
+			"Propert Blast - Create New Flyer_files",
+			"aboutus.html",
+			"header",
+			"Create New Flyer",
+			"fusion-header",
+			"pricin",
+			"aboutus",
+			"home",
+			"pricing",
+			"home",
+			" class=\"active\"",
+			"class=\"active\"",
+			"index.htm",
+			"Porto",
+			"aboutus.html",
+			"cart.html",
+			"section-with-mockup",
+			"so much",
+			"one-page",
+			"one page",
+			"header",
+			"main",
+			"subscribe",
+			"contact us",
+			"Contact Us",
+			"page-faq.html",
+			"faq.html",
+			"page-faq.html",
+			"page-login.html",
+			"contact-us.html",
+			"about-us.html",
+			"porto",
+			"Porto",
+			"blog",
+			"cart",
+			"previews/areas/content-1.png",
+			"img/slides/",
+			"login",
+			"PORTO",
+			"Porto",
+			"subscribe",
+			"home",
+			"label",
+			"h1",
+			"3",
+			"1",
+			"View All Destinations",
+			"get star",
+			"Contact Us",
+			"about",
+			"porto",
+			"create",
+			"flyers_management",
+			"admin_id",
+			">';\n",
+			"div",
+			"update",
+			"view",
+			"_rules",
+			"pas",
+			"span",
+			"label",
+			"pass",
+			"users_list",
+			"dele",
+			"pass",
+			"Record ",
+			"recor",
+			"value",
+			"coupon_code",
+			"admin_coupons",
+			"mytable",
+			"dob",
+			"type",
+			"userDob",
+			"date",
+			"datepicker",
+			"$('#userDob').on(\"changeDate\", function() {\n                        $('#my_hidden_input').val(\n                                $('#userDob').datepicker()\n                            );\n                        });",
+			"migration",
+			"				        <div>\n						    <?php echo anchor(site_url('users/'), 'Go Back', 'class=\"btn btn-primary \"'); ?>\n						</div>",
+			"date",
+			">\n",
+			"date",
+			"create_action",
+			"userGender",
+			"( - $currentdate)",
+			"date",
+			" echo 'selected=\"selected\"'; ?>",
+			"admin_type",
+			"UserStatus",
+			"userRegistrationDate",
+			"start",
+			"<!--",
+			"</td>",
+			"<td>",
+			"?>",
+			"<?php",
+			"</td>",
+			"<!--",
+			"?>",
+			"<?php",
+			"</td>",
+			"<td>",
+			"type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"flyer",
+			"Flyer",
+			"faq.html",
+			"login.html",
+			"contactus.html",
+			"aboutus.html",
+			"Flyer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/app.routes.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/notfound.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_name": "export class PageNotFoundComponent{",
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/main.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/app.template.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1151,
+								1151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/album.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								895
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1756,
+								1756
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/photo.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/albums.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								467
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/contact.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								473
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								559,
+								559
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.typescript_output":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "angularApp.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.rout",
+				"app\\app.routes.ts"
+			],
+			[
+				"album",
+				"app\\album.component.ts"
+			],
+			[
+				"contac",
+				"app\\contact.component.ts"
+			],
+			[
+				"alubm",
+				"app\\album.component.ts"
+			],
+			[
+				"albu",
+				"app\\albums.component.ts"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"main",
+				"app\\main.ts"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"ty",
+				"typings.json"
+			],
+			[
+				"sys",
+				"systemjs.config.js"
+			],
+			[
+				"packe",
+				"package.json"
+			],
+			[
+				"app.temp.",
+				"app\\app.template.html"
+			],
+			[
+				"app.co.ts",
+				"app\\app.component.ts"
+			],
+			[
+				"app.cont",
+				"app\\app.component.ts"
+			],
+			[
+				"albums",
+				"app\\albums.component.ts"
+			],
+			[
+				"ablum.",
+				"app\\album.component.ts"
+			],
+			[
+				"albusm",
+				"app\\albums.component.ts"
+			],
+			[
+				"app.html",
+				"app\\app.component.html"
+			],
+			[
+				"app.rotu",
+				"app\\app.routes.ts"
+			],
+			[
+				"phote",
+				"app\\photo.service.ts"
+			],
+			[
+				"app.routes",
+				"app\\app.routes.ts"
+			],
+			[
+				"maitn",
+				"app\\main.ts"
+			],
+			[
+				"app.component.html",
+				"app\\app.component.html"
+			],
+			[
+				"appt.htm",
+				"app\\app.template.html"
+			],
+			[
+				"maint",
+				"app\\main.ts"
+			],
+			[
+				"contact.",
+				"app\\contact.component.ts"
+			],
+			[
+				"app.com",
+				"app\\app.component.ts"
+			],
+			[
+				"app.htm",
+				"app\\app.component.html"
+			],
+			[
+				"index.htl",
+				"index.html"
+			],
+			[
+				"conta",
+				"app\\contact.component.ts"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"con",
+				"app\\contact.component.ts"
+			],
+			[
+				"alb",
+				"app\\album.component.ts"
+			],
+			[
+				"app.rote",
+				"app\\app.routes.ts"
+			],
+			[
+				"app.co",
+				"app\\app.component.ts"
+			],
+			[
+				"album.ts",
+				"app\\album.component.ts"
+			],
+			[
+				"app.out",
+				"app\\app.routes.ts"
+			],
+			[
+				"app.con",
+				"app\\app.component.ts"
+			],
+			[
+				"app.com.ts",
+				"app\\app.component.ts"
+			],
+			[
+				"index.thl",
+				"index.html"
+			],
+			[
+				"contact",
+				"app\\contact.component.html"
+			],
+			[
+				"photo",
+				"app\\photo.service.ts"
+			],
+			[
+				"app.ro",
+				"app\\app.routes.ts"
+			],
+			[
+				"app.htl",
+				"app\\app.component.html"
+			],
+			[
+				"app.c",
+				"app\\app.component.ts"
+			],
+			[
+				"systemjs.config",
+				"systemjs.config.js"
+			],
+			[
+				"index.thml",
+				"index.html"
+			],
+			[
+				"main.ts",
+				"app\\main.ts"
+			],
+			[
+				"index.html",
+				"index.html"
+			],
+			[
+				"angular/router.ts",
+				"node_modules\\@angular\\router-deprecated\\router.d.ts"
+			],
+			[
+				"app.com.t",
+				"app\\app.component.ts"
+			],
+			[
+				"boot",
+				"app\\boot.ts"
+			],
+			[
+				"albums.ts",
+				"app\\albums.component.ts"
+			],
+			[
+				"photo.ts",
+				"app\\photo.service.ts"
+			],
+			[
+				"contact.ts",
+				"app\\contact.component.ts"
+			],
+			[
+				"app.component.ts",
+				"app\\app.component.ts"
+			],
+			[
+				"prin",
+				"pricing.html"
+			],
+			[
+				"cart",
+				"cart.html"
+			],
+			[
+				"cat",
+				"master\\sass\\gui\\_call-to-action.scss"
+			],
+			[
+				"shop",
+				"shop.html"
+			],
+			[
+				"blog",
+				"blog.html"
+			],
+			[
+				"produ",
+				"product.html"
+			],
+			[
+				"prici",
+				"pricing.html"
+			],
+			[
+				"sub",
+				"subscribe.html"
+			],
+			[
+				"over",
+				"overview.html"
+			],
+			[
+				"abou",
+				"aboutus.html"
+			],
+			[
+				"car",
+				"cart.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"produc",
+				"HTML\\product.html"
+			],
+			[
+				"pricing",
+				"HTML\\pricing.html"
+			],
+			[
+				"subscrit",
+				"HTML\\subscribe.html"
+			],
+			[
+				"prod",
+				"HTML\\product.html"
+			],
+			[
+				"page-faq.html",
+				"HTML\\page-faq.html"
+			],
+			[
+				"lgoin",
+				"HTML\\login.html"
+			],
+			[
+				"proud",
+				"HTML\\product.html"
+			],
+			[
+				"page-login",
+				"HTML\\page-login.html"
+			],
+			[
+				"aboutus",
+				"HTML\\aboutus.html"
+			],
+			[
+				"sho",
+				"HTML\\shopcart.html"
+			],
+			[
+				"shop-cart.html",
+				"HTML\\shop-cart.html"
+			],
+			[
+				"shop-checkout.html",
+				"HTML\\shop-checkout.html"
+			],
+			[
+				"contu",
+				"HTML\\contact-us.html"
+			],
+			[
+				"about-us.html",
+				"HTML\\about-us.html"
+			],
+			[
+				"blog-medium-image.html",
+				"HTML\\blog-medium-image.html"
+			],
+			[
+				"index",
+				"HTML\\index.html"
+			],
+			[
+				"admins",
+				"application\\models\\Admins_model.php"
+			],
+			[
+				"formate",
+				"application\\helpers\\format_helper.php"
+			],
+			[
+				"admin_fly",
+				"application\\controllers\\Admin_flyers.php"
+			],
+			[
+				"flyer_magn",
+				"application\\views\\admins\\flyers_management.php"
+			],
+			[
+				"admin/manageflyers/",
+				"application\\views\\admin\\manageflyers\\add_button_tags.php"
+			],
+			[
+				"flyer",
+				"application\\controllers\\Admin_flyers.php"
+			],
+			[
+				"f",
+				"application\\models\\admin\\Flyersmodel.php"
+			],
+			[
+				"frnotn",
+				"application\\controllers\\Frontend.php"
+			],
+			[
+				"crate",
+				"harviacode\\core\\create_model.php"
+			],
+			[
+				"user",
+				"application\\controllers\\Users.php"
+			],
+			[
+				"tbl_admin_form",
+				"application\\views\\admins\\tbl_admin_form.php"
+			],
+			[
+				"users_read",
+				"application\\views\\users\\users_read.php"
+			],
+			[
+				"users",
+				"application\\controllers\\Users.php"
+			],
+			[
+				"users_from",
+				"application\\views\\users\\users_form.php"
+			],
+			[
+				"tbl",
+				"application\\views\\admins\\tbl_admin_list.php"
+			],
+			[
+				"admin",
+				"application\\controllers\\admin\\Admin.php"
+			],
+			[
+				"application/controllers/admins.php",
+				"application\\controllers\\Admins.php"
+			],
+			[
+				"conf",
+				"application\\config\\config.php"
+			],
+			[
+				"tbl_admin_read",
+				"application\\views\\admins\\tbl_admin_read.php"
+			],
+			[
+				"users_fr",
+				"application\\views\\users\\users_form.php"
+			],
+			[
+				"admin_form",
+				"application\\views\\admins\\tbl_admin_form.php"
+			],
+			[
+				"users_",
+				"application\\models\\Users_model.php"
+			],
+			[
+				"style",
+				"public\\admin\\css\\style.css"
+			],
+			[
+				"admi_coupon",
+				"application\\views\\admin_coupons\\admi_coupons_list.php"
+			],
+			[
+				"admi_con",
+				"application\\views\\admin_coupons\\admi_coupons_form.php"
+			],
+			[
+				"coupon",
+				"application\\controllers\\Admin_coupons.php"
+			],
+			[
+				"script",
+				"public\\frontend\\js\\design-script.js"
+			],
+			[
+				"scritp",
+				"public\\frontend\\js\\script.js"
+			],
+			[
+				"scrit",
+				"public\\admin\\js\\script.js"
+			],
+			[
+				"scri",
+				"public\\frontend\\js\\script.js"
+			],
+			[
+				"migration",
+				"application\\config\\migration.php"
+			],
+			[
+				"nav",
+				"application\\views\\admin\\layout\\nav.php"
+			],
+			[
+				"user_for",
+				"application\\views\\users\\users_form.php"
+			],
+			[
+				"tbl_admin_list",
+				"application\\views\\admins\\tbl_admin_list.php"
+			],
+			[
+				"admins_list",
+				"application\\views\\admins\\tbl_admin_list.php"
+			],
+			[
+				"users_mode",
+				"application\\models\\Users_model.php"
+			],
+			[
+				"confi",
+				"application\\config\\config.php"
+			],
+			[
+				"admin_mode",
+				"application\\models\\Admins_model.php"
+			],
+			[
+				"admin_flyers",
+				"application\\controllers\\Admin_flyers.php"
+			],
+			[
+				"designer_settings",
+				"application\\views\\admin\\home\\designer_settings.php"
+			],
+			[
+				"users_list",
+				"application\\views\\users\\users_list.php"
+			],
+			[
+				"confic",
+				"application\\config\\config.php"
+			],
+			[
+				"head",
+				"application\\views\\admin\\layout\\head.php"
+			],
+			[
+				"adminform",
+				"application\\views\\admin_login_history\\admin_login_history_form.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
